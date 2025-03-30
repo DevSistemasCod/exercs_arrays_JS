@@ -1,4 +1,4 @@
-- Exercícios
+# Exercícios
 
 1) Crie uma lista de tarefas em um array as quais devem ser exibidas em sua página (use um parágrafo para isso com itens separados por vírgula). Permita que o usuário adicione e remova uma tarefa. Estude os métodos: push(), splice(), indexOf(), e join().
 
